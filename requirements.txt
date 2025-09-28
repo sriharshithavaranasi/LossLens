@@ -1,0 +1,6 @@
+streamlit>=1.18.0
+pandas>=1.4
+plotly>=5.0
+openai>=0.27.0         # or latest; if upstream API/syntax changes, see docs. :contentReference[oaicite:3]{index=3}
+scikit-learn>=1.2
+python-dotenv
